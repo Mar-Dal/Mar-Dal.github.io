@@ -21,7 +21,7 @@ Poster:
 
 Sample slide:
   
-<a href="your landing page url">
+<a href="images/project_2.jpg">
 <img src="images/project_2.jpg?raw=true"/>
 </a>
 
@@ -50,19 +50,19 @@ Sample slide:
 
 - [Board game based on a D&D book](https://codepen.io/Nitramyte/full/NWxjqxy)
   
-<a href="your landing page url">
+<a href="images/sava3.jpg">
 <img src="images/sava3.jpg?raw=true"/>
 </a>  
 
 - [Word Game for my Mom](https://github.com/Mar-Dal/word-game/tree/main/word-game)
 - 
-<a href="your landing page url">
+<a href="images/word_game.jpg">
 <img src="images/word_game.jpg?raw=true"/>
 </a>
 
 - [Calculator](https://codepen.io/Nitramyte/full/ZJOoRp)
 - 
-<a href="your landing page url">
+<a href="images/calculator.jpg">
 <img src="images/calculator.jpg?raw=true"/>
 </a>
 
