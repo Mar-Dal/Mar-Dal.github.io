@@ -47,7 +47,8 @@ Github Repo: https://github.com/Mar-Dal/tlh-webscraper
 - [Board game based on a D&D book](https://codepen.io/Nitramyte/full/NWxjqxy)
 <img src="images/sava.jpg?raw=true"/>
 
-
+- [Calculator](https://codepen.io/Nitramyte/full/ZJOoRp)
+<img src="images/calculator.jpg?raw=true"/>
 
 
 ---
