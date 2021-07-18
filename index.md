@@ -9,7 +9,8 @@
 
 Poster:
 <img src="images/project_1.jpg?raw=true"/>
-Github Repo: https://github.com/Mar-Dal/AdvProp_ALS_SAT
+
+<a href="https://github.com/Mar-Dal/AdvProp_ALS_SAT">Github Repo</a>
 
 
 ---
@@ -18,22 +19,22 @@ Github Repo: https://github.com/Mar-Dal/AdvProp_ALS_SAT
 Sample slide:
 <img src="images/project_2.jpg?raw=true"/>
 
-Github Repo: https://github.com/Mar-Dal/Social-Media---kaggle
+<a href="https://github.com/Mar-Dal/Social-Media---kaggle">Github Repo</a>
 
 ---
 [Doodle Classification Using Transfer Learning](https://github.com/Mar-Dal/QD--Kaggle)
 
-Github Repo: https://github.com/Mar-Dal/QD--Kaggle
+<a href="https://github.com/Mar-Dal/QD--Kaggle">Github Repo</a>
 
 ---
 [Document Classification Based On Abstract Using NLP on Small Dataset](https://github.com/Mar-Dal/Abstract-category-prediction---Kaggle)
 
-Github Repo: https://github.com/Mar-Dal/Abstract-category-prediction---Kaggle
+<a href="https://github.com/Mar-Dal/Abstract-category-prediction---Kaggle">Github Repo</a>
 
 ---
 [Webscraper to Get Information Off of Key Pages on an Online Store](https://github.com/Mar-Dal/tlh-webscraper)
 
-Github Repo: https://github.com/Mar-Dal/tlh-webscraper
+<a href="https://github.com/Mar-Dal/tlh-webscraper">Github Repo</a>
 
 ---
 
