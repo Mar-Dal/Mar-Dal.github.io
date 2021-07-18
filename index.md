@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Title](/pdf/team-21.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/project_2.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
