@@ -6,6 +6,7 @@
 ### Machine Learning and Data Science Projects
 
 [Computer Vision Classification Using Adversarial Training](https://github.com/Mar-Dal/AdvProp_ALS_SAT)
+
 Poster:
 <img src="images/project_1.jpg?raw=true"/>
 Github Repo: https://github.com/Mar-Dal/AdvProp_ALS_SAT
@@ -13,16 +14,20 @@ Github Repo: https://github.com/Mar-Dal/AdvProp_ALS_SAT
 
 ---
 [Social Media Predictions](/pdf/team-21.pdf)
+
 Sample slide:
 <img src="images/project_2.jpg?raw=true"/>
+
 Github Repo: https://github.com/Mar-Dal/Social-Media---kaggle
 
 ---
 [Doodle Classification Using Transfer Learning](https://github.com/Mar-Dal/QD--Kaggle)
+
 Github Repo: https://github.com/Mar-Dal/QD--Kaggle
 
 ---
 [Document Classification Based On Abstract Using NLP on Small Dataset](https://github.com/Mar-Dal/Abstract-category-prediction---Kaggle)
+
 Github Repo: https://github.com/Mar-Dal/Abstract-category-prediction---Kaggle
 ---
 
