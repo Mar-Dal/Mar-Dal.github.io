@@ -41,11 +41,11 @@ Github Repo: https://github.com/Mar-Dal/tlh-webscraper
 
 ### Miscellanous
 
-- [Word Game for my Mom :)](https://github.com/Mar-Dal/word-game/tree/main/word-game)
-<img src="images/word_game.jpg?raw=true"/>
-
 - [Board game based on a D&D book](https://codepen.io/Nitramyte/full/NWxjqxy)
 <img src="images/sava3.jpg?raw=true"/>
+
+- [Word Game for my Mom :)](https://github.com/Mar-Dal/word-game/tree/main/word-game)
+<img src="images/word_game.jpg?raw=true"/>
 
 - [Calculator](https://codepen.io/Nitramyte/full/ZJOoRp)
 <img src="images/calculator.jpg?raw=true"/>
