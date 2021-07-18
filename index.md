@@ -4,9 +4,9 @@
 
 ### Machine Learning Projects
 
-[Improving computer vision classification task using adversarial training](/sample_page)
+[Improving computer vision classification task using adversarial training](https://github.com/Mar-Dal/AdvProp_ALS_SAT)
 <img src="images/project_1.jpg?raw=true"/>
-https://github.com/Mar-Dal/AdvProp_ALS_SAT
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
