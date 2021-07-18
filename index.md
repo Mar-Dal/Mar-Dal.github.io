@@ -1,21 +1,32 @@
 ## Portfolio
 
+Here is a non-exhaustive list of some of the projects I worked on, not including my two internship projects (which I am not at liberty to show).
 ---
 
-### Machine Learning Projects
+### Machine Learning and Data Science Projects
 
-[Improving computer vision classification task using adversarial training](https://github.com/Mar-Dal/AdvProp_ALS_SAT)
+[Computer Vision Classification Using Adversarial Training](https://github.com/Mar-Dal/AdvProp_ALS_SAT)
+Poster:
 <img src="images/project_1.jpg?raw=true"/>
+Github Repo: https://github.com/Mar-Dal/AdvProp_ALS_SAT
+
 
 ---
-[Project 2 Title](/pdf/team-21.pdf)
+[Social Media Predictions](/pdf/team-21.pdf)
+Sample slide:
 <img src="images/project_2.jpg?raw=true"/>
+Github Repo: https://github.com/Mar-Dal/Social-Media---kaggle
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Doodle Classification Using Transfer Learning](https://github.com/Mar-Dal/QD--Kaggle)
+Github Repo: https://github.com/Mar-Dal/QD--Kaggle
 
 ---
+[Document Classification Based On Abstract Using NLP on Small Dataset](https://github.com/Mar-Dal/Abstract-category-prediction---Kaggle)
+Github Repo: https://github.com/Mar-Dal/Abstract-category-prediction---Kaggle
+---
+
+
 
 ### Category Name 2
 
