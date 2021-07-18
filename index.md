@@ -8,7 +8,10 @@
 [Computer Vision Classification Using Adversarial Training](https://github.com/Mar-Dal/AdvProp_ALS_SAT)
 
 Poster:
+
+<a href="images/project_1.jpg">
 <img src="images/project_1.jpg?raw=true"/>
+</a>
 
 <a href="https://github.com/Mar-Dal/AdvProp_ALS_SAT">Github Repo</a>
 
@@ -17,7 +20,10 @@ Poster:
 [Social Media Predictions](/pdf/team-21.pdf)
 
 Sample slide:
+  
+<a href="your landing page url">
 <img src="images/project_2.jpg?raw=true"/>
+</a>
 
 <a href="https://github.com/Mar-Dal/Social-Media---kaggle">Github Repo</a>
 
@@ -43,14 +49,22 @@ Sample slide:
 ### Miscellanous
 
 - [Board game based on a D&D book](https://codepen.io/Nitramyte/full/NWxjqxy)
+  
+<a href="your landing page url">
 <img src="images/sava3.jpg?raw=true"/>
+</a>  
 
 - [Word Game for my Mom](https://github.com/Mar-Dal/word-game/tree/main/word-game)
+- 
+<a href="your landing page url">
 <img src="images/word_game.jpg?raw=true"/>
+</a>
 
 - [Calculator](https://codepen.io/Nitramyte/full/ZJOoRp)
+- 
+<a href="your landing page url">
 <img src="images/calculator.jpg?raw=true"/>
-
+</a>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
