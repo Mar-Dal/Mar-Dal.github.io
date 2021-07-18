@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Improving computer vision classification task using adversarial training](/sample_page)
-<img src="images/project_1.jpg?raw=true"/>
+<img src="images/project_1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
