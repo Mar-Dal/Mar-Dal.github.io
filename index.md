@@ -29,13 +29,21 @@ Github Repo: https://github.com/Mar-Dal/QD--Kaggle
 [Document Classification Based On Abstract Using NLP on Small Dataset](https://github.com/Mar-Dal/Abstract-category-prediction---Kaggle)
 
 Github Repo: https://github.com/Mar-Dal/Abstract-category-prediction---Kaggle
+
+---
+[Webscraper to Get Information Off of Key Pages on an Online Store](https://github.com/Mar-Dal/tlh-webscraper)
+
+Github Repo: https://github.com/Mar-Dal/tlh-webscraper
+
 ---
 
 
 
-### Category Name 2
+### Miscellanous
 
-- [Project 1 Title](http://example.com/)
+- [Word Game for my Mom :)](https://github.com/Mar-Dal/word-game/tree/main/word-game)
+<img src="images/word_game.jpg?raw=true"/>
+
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
