@@ -54,7 +54,7 @@ Sample slide:
 <img src="images/sava3.jpg?raw=true"/>
 </a>  
 
-- [Word Game for my Mom](https://github.com/Mar-Dal/word-game/tree/main/word-game)
+- [Word Game](https://github.com/Mar-Dal/word-game/tree/main/word-game)
 - 
 <a href="images/word_game.jpg">
 <img src="images/word_game.jpg?raw=true"/>
