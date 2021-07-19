@@ -48,7 +48,7 @@ Sample slide:
 
 ### Miscellanous
 
-- [Board game loosely based on a fictional one](https://codepen.io/Nitramyte/full/NWxjqxy)
+- [Board game "Sava"](https://codepen.io/Nitramyte/full/NWxjqxy)
   
 <a href="images/sava3.jpg">
 <img src="images/sava3.jpg?raw=true"/>
