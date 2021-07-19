@@ -1,6 +1,6 @@
 ## Portfolio
 
-#### Here is a non-exhaustive list of some of the projects I worked on, not including my two internship projects (which I am not at liberty to show).
+#### Here are some solo projects I worked on.
 ---
 
 ### Machine Learning and Data Science Projects
