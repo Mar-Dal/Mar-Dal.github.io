@@ -55,13 +55,13 @@ Sample slide:
 </a>  
 
 - [Word Game](https://github.com/Mar-Dal/word-game/tree/main/word-game)
-- 
+
 <a href="images/word_game.jpg">
 <img src="images/word_game.jpg?raw=true"/>
 </a>
 
 - [Calculator](https://codepen.io/Nitramyte/full/ZJOoRp)
-- 
+
 <a href="images/calculator.jpg">
 <img src="images/calculator.jpg?raw=true"/>
 </a>
