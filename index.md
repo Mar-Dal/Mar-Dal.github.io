@@ -39,6 +39,10 @@ Sample slide:
 ---
 [Document Classification Based On Abstract Using NLP on Small Dataset](https://github.com/Mar-Dal/Abstract-category-prediction---Kaggle)
 
+<a href="images/abstract.jpg">
+<img src="images/abstract.jpg?raw=true"/>
+</a>
+
 <a href="https://github.com/Mar-Dal/Abstract-category-prediction---Kaggle">Github Repo</a>
 
 ---
