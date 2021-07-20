@@ -30,6 +30,10 @@ Sample slide:
 ---
 [Doodle Classification Using Transfer Learning](https://github.com/Mar-Dal/QD--Kaggle)
 
+<a href="images/doodles.jpg">
+<img src="images/doodles.jpg?raw=true"/>
+</a>
+
 <a href="https://github.com/Mar-Dal/QD--Kaggle">Github Repo</a>
 
 ---
@@ -39,6 +43,10 @@ Sample slide:
 
 ---
 [Webscraper to Get Information Off of Key Pages on an Online Store](https://github.com/Mar-Dal/tlh-webscraper)
+
+<a href="images/webscraper.jpg">
+<img src="images/webscraper.jpg?raw=true"/>
+</a>
 
 <a href="https://github.com/Mar-Dal/tlh-webscraper">Github Repo</a>
 
