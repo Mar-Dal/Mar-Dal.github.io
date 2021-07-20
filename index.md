@@ -7,16 +7,18 @@
 
 [Computer Vision Classification Using Adversarial Training](https://github.com/Mar-Dal/AdvProp_ALS_SAT)
 
+<a href="https://github.com/Mar-Dal/AdvProp_ALS_SAT">Github Repo</a>
+
+Poster:
 <a href="images/project_1.jpg">
 <img src="images/project_1.jpg?raw=true"/>
 </a>
-<i>     Poster</i>
-
-<a href="https://github.com/Mar-Dal/AdvProp_ALS_SAT">Github Repo</a>
 
 
 ---
 [Social Media Predictions](/pdf/team-21.pdf)
+
+<a href="https://github.com/Mar-Dal/Social-Media---kaggle">Github Repo</a>
 
 Sample slide:
   
@@ -24,34 +26,35 @@ Sample slide:
 <img src="images/project_2.jpg?raw=true"/>
 </a>
 
-<a href="https://github.com/Mar-Dal/Social-Media---kaggle">Github Repo</a>
 
 ---
 [Doodle Classification Using Transfer Learning](https://github.com/Mar-Dal/QD--Kaggle)
+
+<a href="https://github.com/Mar-Dal/QD--Kaggle">Github Repo</a>
 
 <a href="images/doodles.jpg">
 <img src="images/doodles.jpg?raw=true"/>
 </a>
 
-<a href="https://github.com/Mar-Dal/QD--Kaggle">Github Repo</a>
 
 ---
 [Document Classification Based On Abstract Using NLP on Small Dataset](https://github.com/Mar-Dal/Abstract-category-prediction---Kaggle)
+
+<a href="https://github.com/Mar-Dal/Abstract-category-prediction---Kaggle">Github Repo</a>
 
 <a href="images/abstract.jpg">
 <img src="images/abstract.jpg?raw=true"/>
 </a>
 
-<a href="https://github.com/Mar-Dal/Abstract-category-prediction---Kaggle">Github Repo</a>
 
 ---
 [Webscraper to Get Information Off of Key Pages on an Online Store](https://github.com/Mar-Dal/tlh-webscraper)
 
+<a href="https://github.com/Mar-Dal/tlh-webscraper">Github Repo</a>
+
 <a href="images/webscraper.jpg">
 <img src="images/webscraper.jpg?raw=true"/>
 </a>
-
-<a href="https://github.com/Mar-Dal/tlh-webscraper">Github Repo</a>
 
 ---
 
