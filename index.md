@@ -1,17 +1,16 @@
 ## Portfolio
 
-#### Here are some solo projects I worked on.
+#### Here are some projects I worked on.
 ---
 
 ### Machine Learning and Data Science Projects
 
 [Computer Vision Classification Using Adversarial Training](https://github.com/Mar-Dal/AdvProp_ALS_SAT)
 
-Poster:
-
 <a href="images/project_1.jpg">
 <img src="images/project_1.jpg?raw=true"/>
 </a>
+<i>Poster</i>
 
 <a href="https://github.com/Mar-Dal/AdvProp_ALS_SAT">Github Repo</a>
 
