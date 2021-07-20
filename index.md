@@ -10,7 +10,7 @@
 <a href="images/project_1.jpg">
 <img src="images/project_1.jpg?raw=true"/>
 </a>
-<i>Poster</i>
+<i>     Poster</i>
 
 <a href="https://github.com/Mar-Dal/AdvProp_ALS_SAT">Github Repo</a>
 
