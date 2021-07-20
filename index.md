@@ -5,7 +5,7 @@
 
 ### Machine Learning and Data Science Projects
 
-[Computer Vision Classification Using Adversarial Training](https://github.com/Mar-Dal/AdvProp_ALS_SAT)
+- [Computer Vision Classification Using Adversarial Training](https://github.com/Mar-Dal/AdvProp_ALS_SAT)
 
 <a href="https://github.com/Mar-Dal/AdvProp_ALS_SAT">Github Repo</a>
 
@@ -16,7 +16,7 @@ Poster:
 
 
 ---
-[Social Media Predictions](/pdf/team-21.pdf)
+- [Social Media Predictions](/pdf/team-21.pdf)
 
 <a href="https://github.com/Mar-Dal/Social-Media---kaggle">Github Repo</a>
 
@@ -28,7 +28,7 @@ Sample slide:
 
 
 ---
-[Doodle Classification Using Transfer Learning](https://github.com/Mar-Dal/QD--Kaggle)
+- [Doodle Classification Using Transfer Learning](https://github.com/Mar-Dal/QD--Kaggle)
 
 <a href="https://github.com/Mar-Dal/QD--Kaggle">Github Repo</a>
 
@@ -40,7 +40,7 @@ Sample doodles:
 
 
 ---
-[Document Classification Based On Abstract Using NLP on Small Dataset](https://github.com/Mar-Dal/Abstract-category-prediction---Kaggle)
+- [Document Classification Based On Abstract Using NLP on Small Dataset](https://github.com/Mar-Dal/Abstract-category-prediction---Kaggle)
 
 <a href="https://github.com/Mar-Dal/Abstract-category-prediction---Kaggle">Github Repo</a>
 
@@ -51,7 +51,7 @@ Performance of different models on different validation splits:
 
 
 ---
-[Webscraper to Get Information Off of Key Pages on an Online Store](https://github.com/Mar-Dal/tlh-webscraper)
+- [Webscraper to Get Information Off of Key Pages on an Online Store](https://github.com/Mar-Dal/tlh-webscraper)
 
 <a href="https://github.com/Mar-Dal/tlh-webscraper">Github Repo</a>
 
