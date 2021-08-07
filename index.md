@@ -65,7 +65,7 @@ Frontpage data to be "scraped":
 
 
 
-### Miscellanous
+### Miscellaneous
 
 - [Board Game "Sava"](https://codepen.io/Nitramyte/full/NWxjqxy)
   
